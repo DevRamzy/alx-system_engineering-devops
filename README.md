@@ -1,2 +1,2 @@
-#!/bin/bash
-wc -l file
+#!bin/bash
+0x00. Shell, basics
