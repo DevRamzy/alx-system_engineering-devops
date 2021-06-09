@@ -1,1 +1,2 @@
-Not Empty
+#!/bin/bash
+wc -l file

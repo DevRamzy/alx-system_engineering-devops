@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-not empty
+#!/bin/bash
+wc -l file
