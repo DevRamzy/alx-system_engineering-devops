@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PATH -type d
+find $PATH mindepth 1 -type d | wc -1
