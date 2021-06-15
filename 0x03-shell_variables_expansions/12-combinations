@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | grep oo "exclude term"
+echo {a..z}{a..z}
